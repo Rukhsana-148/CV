@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+    padding : 0px 0px;
+    margin : 0px 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1360px;
+    height : auto;
+    padding : 30px;
+
+}
+.left{
+    background-color: rgb(13, 13, 39);
+   font-family:'poppins' ,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.left img{
+  border-radius: 50%;
+  margin-left : 15%;
+  padding: 30px 0px;
+
+}
+.left h4{
+    margin-left : 25%;
+    color : white;
+    padding-bottom : 20px;
+}
+
+.top{
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(12, 12, 32);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.contact{
+    padding-left: 10px;
+}
+.left ul li{
+    list-style : none;
+    color : white;
+    margin-bottom: 6px;
+}
+.contact{
+    margin-top : 30px;
+}
+.contact .fa{
+    margin-right : 10px;
+  
+}
+.education{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.education .line{
+    width : 400px;
+    height : 3px;
+    background-color: white;
+    margin-top : -15px;
+    margin-bottom : 20px;
+}
+.education p{
+    color : white;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.education strong{
+    font-size: 18px;
+}
+.education li p{
+    font-size: 17px;
+}
+.education span{
+    color : rgb(107, 107, 209);
+}
+.language{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.language .line{
+    width : 400px;
+    height : 3px;
+    background-color: white;
+    margin-top : -15px;
+    margin-bottom : 20px;
+}
+.language p{
+    color : white;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.right{
+    background-color: rgb(228, 226, 226);
+}
+.about h5{
+    padding :10px 0px;
+    font-weight: bold;
+    color :rgb(13, 13, 39)
+}
+
+.about p{
+    color : rgb(80, 77, 77);
+}
+.right ul li{
+    color :rgb(11, 11, 32);
+    margin-bottom : 20px;
+}
+.work{
+    margin-top : 20px;
+
+}
+.work h5{
+    font-weight: bold;
+    color :rgb(11, 11, 41);
+    padding-bottom : 20px;
+}
+.work ul li{
+    list-style: none;
+}
+
+.work ul li a{
+   text-decoration : none;
+   color :rgb(18, 18, 59);
+   font-weight: bold;
+}
+
+.skill{
+    padding-top: 30px;
+}
+.skill h5{
+font-weight: bold;
+padding-bottom : 40px;
+}
+.interest h5{
+    font-weight : bold;
+    padding : 20px 0px;
+}
+.interest ul li{
+    display : inline-block;
+    margin-right: 10px;
+    font-weight: bold;
+    list-style: georgian;
+    
+}
